@@ -1,2 +1,2 @@
 # DNASequenceAnalysisWithBiopython-Test-
-just for fun
+Suspended due to the lack of biology knowledge.
